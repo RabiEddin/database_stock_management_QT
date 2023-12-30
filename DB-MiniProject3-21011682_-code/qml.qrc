@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>SchemaCheck.qml</file>
+        <file>SelectQuery.qml</file>
+        <file>UpdateQuery.qml</file>
+        <file>InsertQuery.qml</file>
+        <file>DeleteQuery.qml</file>
+        <file>CustomQuery.qml</file>
+    </qresource>
+</RCC>
